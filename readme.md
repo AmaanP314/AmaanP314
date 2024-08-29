@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amaan Poonawala</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Amaan Poonawala</h1>
 <h3 align="center">An engineering undergraduate from India specializing in AI & Data Science.</h3>
 
 ---
@@ -62,4 +62,11 @@
 
 ---
 
-- 📫 **How to reach me:** **amaanpoonawala05@gmail.com**
+<h3 align="center">📬 Reach Me</h3>
+<p align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDloNzQxdDVrN3dyZ3ZjbDc5NjZxeDJ2Y3k3cWprc2g2MHAzcjExbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jV0VIro3KlOmv1cjEY/giphy.gif" width="80px">
+  <br>Feel free to connect with me via <a href="https://www.linkedin.com/in/amaan-poonawala" target="_blank">LinkedIn</a>, <a href="https://www.hackerrank.com/profile/amaanpoonawala05" target="_blank">Hackerrank</a>, <a href="https://leetcode.com/amaanpoonawala05/" target="_blank">LeetCode</a>, or <a href="mailto:amaanpoonawala05@gmail.com">Gmail</a>!
+  <br>I'm always open to collaborations and opportunities.
+</p>
+
+
