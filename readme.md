@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px">
   </a>
   <a href="https://huggingface.co/AmaanP314" target="_blank">
-    <img src="https://img.shields.io/badge/Transformers-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" height="40px">
+    <img src="https://img.shields.io/badge/-HuggingFace-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" height="40px">
   </a>
   <a href="https://amaanp.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2E2E2E?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" height="40px">
