@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Amaan Poonawala</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=450&lines=AI+Developer;Data+Science;Data+Curation+%26+Web+Scraping;Freelancing;Web+development&center=true&size=25&loop=true" alt="Typing SVG" />
-</div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&lines=AI+Developer;Data+Science;Data+Curation+%26+Web+Scraping;Freelancing;Full+Stack+Development" alt="Typing SVG" />
+</p>
 <h3 align="center">My Skills</h3>
 
 <h4 align="center">AI Frameworks & Libraries</h4>
